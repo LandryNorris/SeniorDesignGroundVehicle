@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SeniorDesignGroundVehicle",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DriveTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DriveTest-Debug-7ef11b3200d9c30e1732.json",
+					"name" : "DriveTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LaserTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LaserTest-Debug-e234b380d98a3144fc04.json",
+					"name" : "LaserTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SeniorDesignGroundVehicle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SeniorDesignGroundVehicle-Debug-c7cb16204befa41840e9.json",
+					"name" : "SeniorDesignGroundVehicle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ShowcaseTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ShowcaseTest-Debug-7938bc349382241cb6c1.json",
+					"name" : "ShowcaseTest",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/landry/CLionProjects/SeniorDesignGroundVehicle/cmake-build-debug",
+		"source" : "/home/landry/CLionProjects/SeniorDesignGroundVehicle"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

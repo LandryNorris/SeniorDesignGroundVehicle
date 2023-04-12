@@ -1,0 +1,4 @@
+/home/landry/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/landry/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/ninja/linux/ninja -G Ninja -S /home/landry/CLionProjects/SeniorDesignGroundVehicle -B /home/landry/CLionProjects/SeniorDesignGroundVehicle/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/landry/CLionProjects/SeniorDesignGroundVehicle/cmake-build-debug
