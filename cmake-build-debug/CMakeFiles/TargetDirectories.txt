@@ -1,6 +1,0 @@
-/home/landry/CLionProjects/SeniorDesignGroundVehicle/cmake-build-debug/CMakeFiles/SeniorDesignGroundVehicle.dir
-/home/landry/CLionProjects/SeniorDesignGroundVehicle/cmake-build-debug/CMakeFiles/DriveTest.dir
-/home/landry/CLionProjects/SeniorDesignGroundVehicle/cmake-build-debug/CMakeFiles/LaserTest.dir
-/home/landry/CLionProjects/SeniorDesignGroundVehicle/cmake-build-debug/CMakeFiles/ShowcaseTest.dir
-/home/landry/CLionProjects/SeniorDesignGroundVehicle/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/landry/CLionProjects/SeniorDesignGroundVehicle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
